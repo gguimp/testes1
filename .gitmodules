@@ -1,0 +1,3 @@
+[submodule "lib/ec2-actions"]
+	path = lib/ec2-actions
+	url = git@github.com:exatasoftware/ec2-actions.git
